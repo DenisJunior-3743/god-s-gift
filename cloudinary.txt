@@ -1,0 +1,7 @@
+Cloud name: dfqksoqvx
+
+API key: 422134416577375
+
+API secret: 1rREmaY_2o9IKGNAxz-4SCsZwfQ
+
+API environment variable: CLOUDINARY_URL=cloudinary://422134416577375:1rREmaY_2o9IKGNAxz-4SCsZwfQ@dfqksoqvx

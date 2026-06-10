@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Rich emerald background -->
+  <rect width="64" height="64" fill="#1a6b35" rx="10"/>
+  <!-- Amber accent arc at top-right -->
+  <circle cx="54" cy="10" r="18" fill="#d4961a" opacity="0.18"/>
+  <!-- Stylised "GG" monogram or paw — using a simple leaf+cross motif -->
+  <g transform="translate(32,33)">
+    <!-- Main diamond leaf shape -->
+    <path d="M 0 -13 Q 10 -7 13 0 Q 10 7 0 13 Q -10 7 -13 0 Q -10 -7 0 -13 Z"
+          fill="#ffffff" opacity="0.92"/>
+    <!-- Centre circle -->
+    <circle cx="0" cy="0" r="4" fill="#d4961a"/>
+    <!-- Small accent dots at cardinal tips -->
+    <circle cx="0"  cy="-13" r="1.5" fill="#d4961a"/>
+    <circle cx="13" cy="0"   r="1.5" fill="#d4961a"/>
+    <circle cx="0"  cy="13"  r="1.5" fill="#d4961a"/>
+    <circle cx="-13" cy="0"  r="1.5" fill="#d4961a"/>
+  </g>
+</svg>

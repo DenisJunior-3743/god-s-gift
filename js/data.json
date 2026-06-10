@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "company": "God's Gift Safaris Uganda Limited",
+    "tagline": "Discover Uganda — God's Gift to Africa",
+    "location": "Kampala, Uganda",
+    "phone": "+256 782 456 789",
+    "email": "info@godsgiftsafaris.ug",
+    "whatsapp": "+256782456789",
+    "social": {
+      "facebook": "https://facebook.com/godsgiftsafaris",
+      "instagram": "https://instagram.com/godsgiftsafaris",
+      "twitter": "https://twitter.com/godsgiftsafaris",
+      "youtube": "https://youtube.com/godsgiftsafaris"
+    }
+  },
+
+  "categories": [
+    { "id": "all",      "label": "All",           "icon": "fas fa-globe-africa" },
+    { "id": "parks",    "label": "National Parks", "icon": "fas fa-tree" },
+    { "id": "lakes",    "label": "Lakes",          "icon": "fas fa-water" },
+    { "id": "mountains","label": "Mountains",      "icon": "fas fa-mountain" },
+    { "id": "culture",  "label": "Culture",        "icon": "fas fa-drum" },
+    { "id": "wildlife", "label": "Wildlife",       "icon": "fas fa-paw" },
+    { "id": "adventure","label": "Adventure",      "icon": "fas fa-hiking" }
+  ],
+
+  "attractions": [
+    {
+      "id": "bwindi",
+      "name": "Bwindi Impenetrable National Park",
+      "slug": "bwindi-impenetrable-national-park",
+      "category": ["parks", "wildlife"],
+      "region": "Southwest Uganda",
+      "coordinates": { "lat": -1.0333, "lng": 29.6833 },
+      "rating": 4.9,
+      "duration": "2-3 days",
+      "bestTime": "Jun–Aug, Dec–Feb",
+      "tagline": "Home of the Mountain Gorillas",
+      "shortDesc": "Trek through ancient rainforest to encounter endangered mountain gorillas in their natural habitat.",
+      "fullDesc": "Bwindi Impenetrable National Park is a UNESCO World Heritage Site located in southwestern Uganda. It is home to almost half of the world's remaining mountain gorillas, making it one of the most important conservation sites in Africa. The park covers 321 km² of ancient montane forest and is a biodiversity hotspot with over 120 mammal species, 350 bird species, and 200+ tree species. Gorilla trekking is the headline experience, but Bwindi also offers forest walks, community visits, and birding.",
+      "highlights": ["Mountain Gorilla Trekking", "Forest Bird Watching", "Community Cultural Visits", "Night Forest Walks"],
+      "images": [
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580346/godsgift/bwindi/images/bird.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580349/godsgift/bwindi/images/bwindi.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580350/godsgift/bwindi/images/child.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580351/godsgift/bwindi/images/chill.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580352/godsgift/bwindi/images/forests.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580353/godsgift/bwindi/images/gorilla.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580354/godsgift/bwindi/images/mum.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580355/godsgift/bwindi/images/post.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580357/godsgift/bwindi/images/waters.jpg"
+      ],
+      "heroImage": "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580346/godsgift/bwindi/images/bird.jpg",
+      "video": "https://res.cloudinary.com/dfqksoqvx/video/upload/v1780580387/godsgift/bwindi/videos/bwindi2.mp4",
+      "featured": true,
+      "price": "From $700/person"
+    },
+    {
+      "id": "queen-elizabeth",
+      "name": "Queen Elizabeth National Park",
+      "slug": "queen-elizabeth-national-park",
+      "category": ["parks", "wildlife"],
+      "region": "Western Uganda",
+      "coordinates": { "lat": 0.0000, "lng": 30.0000 },
+      "rating": 4.8,
+      "duration": "2-4 days",
+      "bestTime": "Jun–Sep, Dec–Feb",
+      "tagline": "Uganda's Most Popular Safari Destination",
+      "shortDesc": "Boat safaris, tree-climbing lions, and vast savannah teeming with wildlife on the Kazinga Channel.",
+      "fullDesc": "Queen Elizabeth National Park is Uganda's most visited national park, renowned for its remarkable biodiversity. Straddling the equator in western Uganda, it features savannah, wetlands, forests, and lakes. The famous Kazinga Channel boat cruise offers close encounters with hippos, elephants, and hundreds of bird species. The park is also home to the unique tree-climbing lions of the Ishasha sector.",
+      "highlights": ["Kazinga Channel Boat Cruise", "Tree-Climbing Lions (Ishasha)", "Game Drives", "Birding (600+ species)"],
+      "images": [
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580391/godsgift/queen-elizabeth/images/1.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580392/godsgift/queen-elizabeth/images/3.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580395/godsgift/queen-elizabeth/images/4.webp",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580397/godsgift/queen-elizabeth/images/5.webp",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580398/godsgift/queen-elizabeth/images/6.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580400/godsgift/queen-elizabeth/images/7.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580401/godsgift/queen-elizabeth/images/8.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580402/godsgift/queen-elizabeth/images/birds.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580403/godsgift/queen-elizabeth/images/crater.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580404/godsgift/queen-elizabeth/images/elephant.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580405/godsgift/queen-elizabeth/images/flamingoes.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580407/godsgift/queen-elizabeth/images/flies.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580409/godsgift/queen-elizabeth/images/hippos.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580409/godsgift/queen-elizabeth/images/kobs.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580410/godsgift/queen-elizabeth/images/lake.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580411/godsgift/queen-elizabeth/images/lions.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580412/godsgift/queen-elizabeth/images/lionss.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580413/godsgift/queen-elizabeth/images/view.jpg"
+      ],
+      "heroImage": "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580391/godsgift/queen-elizabeth/images/1.jpg",
+      "video": "https://res.cloudinary.com/dfqksoqvx/video/upload/v1780580442/godsgift/queen-elizabeth/videos/queen.mp4",
+      "featured": true,
+      "price": "From $200/person"
+    },
+    {
+      "id": "murchison-falls",
+      "name": "Murchison Falls National Park",
+      "slug": "murchison-falls-national-park",
+      "category": ["parks", "wildlife", "adventure"],
+      "region": "Northwest Uganda",
+      "coordinates": { "lat": 2.2833, "lng": 31.7833 },
+      "rating": 4.8,
+      "duration": "2-3 days",
+      "bestTime": "Dec–Feb, Jun–Aug",
+      "tagline": "The Most Powerful Waterfall on Earth",
+      "shortDesc": "Watch the mighty Nile squeeze through a 7-metre gorge, then explode into a thunderous 43-metre drop.",
+      "fullDesc": "Murchison Falls National Park is Uganda's largest and oldest conservation area, covering 3,893 km². The park is bisected by the Victoria Nile which plunges 43 metres through a narrow 7-metre gorge creating the spectacular Murchison Falls. Beyond the waterfall, the park supports large populations of elephants, hippos, crocodiles, and the rare Rothschild giraffe. Boat trips to the base of the falls are unmissable.",
+      "highlights": ["Murchison Falls Waterfall", "Nile Boat Safari", "Game Drives", "Top of the Falls Hike", "Rothschild Giraffe"],
+      "images": [
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580445/godsgift/murchison-falls/images/baboon.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580448/godsgift/murchison-falls/images/elephant.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580450/godsgift/murchison-falls/images/falls.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580453/godsgift/murchison-falls/images/lion.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580454/godsgift/murchison-falls/images/mixed.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580455/godsgift/murchison-falls/images/rain-bow.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580456/godsgift/murchison-falls/images/snow.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580459/godsgift/murchison-falls/images/tourists.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580460/godsgift/murchison-falls/images/valley.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580461/godsgift/murchison-falls/images/water.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580462/godsgift/murchison-falls/images/waters.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580464/godsgift/murchison-falls/images/waterss.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580465/godsgift/murchison-falls/images/whites.jpg"
+      ],
+      "heroImage": "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780586120/godsgift/murchison-falls/images/falls.jpg",
+      "video": "https://res.cloudinary.com/dfqksoqvx/video/upload/v1780580479/godsgift/murchison-falls/videos/murchison.mp4",
+      "featured": true,
+      "price": "From $180/person"
+    },
+    {
+      "id": "kidepo",
+      "name": "Kidepo Valley National Park",
+      "slug": "kidepo-valley-national-park",
+      "category": ["parks", "wildlife", "adventure"],
+      "region": "Northeast Uganda",
+      "coordinates": { "lat": 3.8667, "lng": 33.8500 },
+      "rating": 4.9,
+      "duration": "3-4 days",
+      "bestTime": "Jun–Aug",
+      "tagline": "Africa's Most Remote Safari Gem",
+      "shortDesc": "Untouched wilderness with dramatic landscapes, diverse wildlife and the authentic raw African experience.",
+      "fullDesc": "Kidepo Valley National Park is often cited as one of Africa's finest national parks, yet remains one of Uganda's best-kept secrets due to its remote location in the Karamoja region. The park is characterized by broad savannah valleys surrounded by mountains and rugged terrain. It hosts over 77 mammal species including cheetahs, hunting dogs, and ostriches — species not found in any other Ugandan park.",
+      "highlights": ["Rare Wildlife (Cheetah, Ostrich)", "Narus Valley Game Drives", "Karamojong Cultural Experience", "Scenic Mountain Views"],
+      "images": [
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580480/godsgift/kidepo/images/birds.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580481/godsgift/kidepo/images/gorillas.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580482/godsgift/kidepo/images/kidepo.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580483/godsgift/kidepo/images/kidepo1.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580484/godsgift/kidepo/images/kidepo2.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580485/godsgift/kidepo/images/kidepo3.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580486/godsgift/kidepo/images/kidepo4.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580487/godsgift/kidepo/images/kidepo5.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580488/godsgift/kidepo/images/kidepo6.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580489/godsgift/kidepo/images/ostriches.jpg"
+      ],
+      "heroImage": "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580480/godsgift/kidepo/images/birds.jpg",
+      "video": null,
+      "featured": true,
+      "price": "From $250/person"
+    },
+    {
+      "id": "lake-bunyonyi",
+      "name": "Lake Bunyonyi",
+      "slug": "lake-bunyonyi",
+      "category": ["lakes", "adventure"],
+      "region": "Southwest Uganda",
+      "coordinates": { "lat": -1.3000, "lng": 29.8833 },
+      "rating": 4.7,
+      "duration": "1-2 days",
+      "bestTime": "Year-round",
+      "tagline": "Africa's Most Beautiful Lake",
+      "shortDesc": "A stunning terraced landscape with 29 islands, known as the 'Switzerland of Africa'.",
+      "fullDesc": "Lake Bunyonyi is nestled in the hills of Kabale in southwestern Uganda, close to the border with Rwanda. It is considered one of the most scenic lakes in Africa, with its 29 islands surrounded by steep terraced hillsides covered with banana plants and eucalyptus trees. The lake is bilharzia-free, making it safe for swimming. Activities include canoe trips, island visits, bird watching, and cultural experiences with the Bakiga people.",
+      "highlights": ["Canoe Island Hopping", "Swimming (Bilharzia-free)", "Bird Watching", "Bakiga Cultural Experiences", "Scenic Hill Hikes"],
+      "images": [
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580490/godsgift/lake-bunyonyi/images/boat.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580491/godsgift/lake-bunyonyi/images/chill-zone.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580492/godsgift/lake-bunyonyi/images/chill.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580493/godsgift/lake-bunyonyi/images/islands.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580495/godsgift/lake-bunyonyi/images/islandss.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580496/godsgift/lake-bunyonyi/images/lake-view.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580497/godsgift/lake-bunyonyi/images/reflection.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580498/godsgift/lake-bunyonyi/images/sleep.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580500/godsgift/lake-bunyonyi/images/tourist.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580501/godsgift/lake-bunyonyi/images/view.jpg"
+      ],
+      "heroImage": "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580490/godsgift/lake-bunyonyi/images/boat.jpg",
+      "video": null,
+      "featured": true,
+      "price": "From $80/person"
+    },
+    {
+      "id": "rwenzori",
+      "name": "Rwenzori Mountains",
+      "slug": "rwenzori-mountains",
+      "category": ["mountains", "adventure"],
+      "region": "Western Uganda",
+      "coordinates": { "lat": 0.3833, "lng": 29.9167 },
+      "rating": 4.8,
+      "duration": "7-10 days",
+      "bestTime": "Jun–Aug, Dec–Feb",
+      "tagline": "The Mountains of the Moon",
+      "shortDesc": "Climb the legendary 'Mountains of the Moon' — Africa's third highest peak through Afro-alpine wonderland.",
+      "fullDesc": "The Rwenzori Mountains, known as the 'Mountains of the Moon', are a UNESCO World Heritage Site on the border of Uganda and the Democratic Republic of Congo. The range includes Margherita Peak (5,109m), Africa's third highest point. The mountains are home to unique Afro-alpine vegetation including giant heathers, lobelias, and groundsels. Trekking through the Rwenzoris is an extraordinary adventure through multiple ecological zones.",
+      "highlights": ["Margherita Peak Summit (5,109m)", "Afro-Alpine Vegetation", "Glaciers & Snowfields", "Waterfalls & Rivers", "Unique Bird Species"],
+      "images": [
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580502/godsgift/rwenzori/images/climbing.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580502/godsgift/rwenzori/images/lizard.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580503/godsgift/rwenzori/images/magherita.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580504/godsgift/rwenzori/images/mountain-climbing.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580505/godsgift/rwenzori/images/mountain-view.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580506/godsgift/rwenzori/images/snow-capped.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580507/godsgift/rwenzori/images/snow.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580509/godsgift/rwenzori/images/vegs.jpg"
+      ],
+      "heroImage": "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580502/godsgift/rwenzori/images/climbing.jpg",
+      "video": null,
+      "featured": false,
+      "price": "From $1200/person"
+    },
+    {
+      "id": "lake-mburo",
+      "name": "Lake Mburo National Park",
+      "slug": "lake-mburo-national-park",
+      "category": ["parks", "wildlife", "lakes"],
+      "region": "Western Uganda",
+      "coordinates": { "lat": -0.6167, "lng": 30.9500 },
+      "rating": 4.6,
+      "duration": "1-2 days",
+      "bestTime": "Jun–Sep",
+      "tagline": "Uganda's Zebra Capital",
+      "shortDesc": "Uganda's only park with zebras and impalas, perfect for walking safaris and horseback riding.",
+      "fullDesc": "Lake Mburo National Park is the smallest of Uganda's savannah national parks and the closest to Kampala. It is home to zebras, impalas, elands, buffaloes, and over 350 bird species. The park is one of the few in Uganda where walking safaris and horseback riding are permitted, offering intimate wildlife encounters. Lake Mburo itself hosts hippos and crocodiles, best viewed on a boat cruise.",
+      "highlights": ["Zebra & Impala Sightings", "Walking Safari", "Horseback Riding", "Lake Boat Cruise", "Night Game Drive"],
+      "images": [
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580510/godsgift/lake-mburo/images/boat-cruise.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580511/godsgift/lake-mburo/images/cloud.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580512/godsgift/lake-mburo/images/evening.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580513/godsgift/lake-mburo/images/giraffes.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580514/godsgift/lake-mburo/images/horses.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580516/godsgift/lake-mburo/images/post.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580517/godsgift/lake-mburo/images/rhino.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580518/godsgift/lake-mburo/images/zebras.jpg"
+      ],
+      "heroImage": "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580510/godsgift/lake-mburo/images/boat-cruise.jpg",
+      "video": "https://res.cloudinary.com/dfqksoqvx/video/upload/v1780580534/godsgift/lake-mburo/videos/mburo.mp4",
+      "featured": false,
+      "price": "From $150/person"
+    }
+  ],
+
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sarah Mitchell",
+      "country": "United Kingdom",
+      "flag": "🇬🇧",
+      "avatar": "https://randomuser.me/api/portraits/women/32.jpg",
+      "rating": 5,
+      "text": "Trekking to see the mountain gorillas in Bwindi was the single most profound wildlife experience of my life. God's Gift Safaris handled every detail perfectly.",
+      "attraction": "Bwindi Impenetrable Forest",
+      "date": "March 2024"
+    },
+    {
+      "id": 2,
+      "name": "James Okonkwo",
+      "country": "Nigeria",
+      "flag": "🇳🇬",
+      "avatar": "https://randomuser.me/api/portraits/men/45.jpg",
+      "rating": 5,
+      "text": "Kidepo Valley is unlike anything I've ever seen. The raw wilderness, the silence, the wildlife — God's Gift Safaris made this dream a reality.",
+      "attraction": "Kidepo Valley National Park",
+      "date": "June 2024"
+    },
+    {
+      "id": 3,
+      "name": "Anna Bergström",
+      "country": "Sweden",
+      "flag": "🇸🇪",
+      "avatar": "https://randomuser.me/api/portraits/women/67.jpg",
+      "rating": 5,
+      "text": "Lake Bunyonyi at sunset is pure magic. Our guide was knowledgeable, warm, and made us feel like family. We will definitely be back!",
+      "attraction": "Lake Bunyonyi",
+      "date": "August 2024"
+    },
+    {
+      "id": 4,
+      "name": "David Chen",
+      "country": "Singapore",
+      "flag": "🇸🇬",
+      "avatar": "https://randomuser.me/api/portraits/men/22.jpg",
+      "rating": 5,
+      "text": "The boat cruise on Murchison Falls was breathtaking. Watching the Nile burst through that gorge is something I'll carry with me forever.",
+      "attraction": "Murchison Falls",
+      "date": "December 2023"
+    }
+  ],
+
+  "stats": [
+    { "value": 12,   "suffix": "+", "label": "Years Experience" },
+    { "value": 850,  "suffix": "+", "label": "Happy Tourists" },
+    { "value": 24,   "suffix": "+", "label": "Destinations" },
+    { "value": 100,  "suffix": "%", "label": "Safe Travel Record" }
+  ],
+
+  "why_us": [
+    {
+      "icon": "fas fa-shield-alt",
+      "title": "Safe & Trusted",
+      "desc": "12+ years of safe tours. All guides are certified, experienced, and deeply passionate about Uganda."
+    },
+    {
+      "icon": "fas fa-leaf",
+      "title": "Eco-Responsible",
+      "desc": "We operate sustainably, supporting local communities and conservation efforts in every park we visit."
+    },
+    {
+      "icon": "fas fa-headset",
+      "title": "24/7 Support",
+      "desc": "From booking to return, our team is always available to ensure your safari exceeds expectations."
+    },
+    {
+      "icon": "fas fa-tag",
+      "title": "Best Value",
+      "desc": "Premium experiences at honest prices. We tailor packages to fit every budget without compromising quality."
+    }
+  ]
+}

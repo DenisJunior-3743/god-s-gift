@@ -1,0 +1,140 @@
+{
+  "generatedAt": "2026-06-04T15:13:31.356Z",
+  "cloudinaryCloudName": "dfqksoqvx",
+  "heroVideo": "https://res.cloudinary.com/dfqksoqvx/video/upload/v1780580344/godsgift/site/hero/uganda-safari-hero.mp4",
+  "parks": {
+    "bwindi": {
+      "images": [
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580346/godsgift/bwindi/images/bird.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580349/godsgift/bwindi/images/bwindi.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580350/godsgift/bwindi/images/child.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580351/godsgift/bwindi/images/chill.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580352/godsgift/bwindi/images/forests.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580353/godsgift/bwindi/images/gorilla.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580354/godsgift/bwindi/images/mum.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580355/godsgift/bwindi/images/post.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580357/godsgift/bwindi/images/waters.jpg"
+      ],
+      "videos": [
+        "https://res.cloudinary.com/dfqksoqvx/video/upload/v1780580387/godsgift/bwindi/videos/bwindi2.mp4"
+      ],
+      "coverImage": "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580346/godsgift/bwindi/images/bird.jpg"
+    },
+    "queen-elizabeth": {
+      "images": [
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580391/godsgift/queen-elizabeth/images/1.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580392/godsgift/queen-elizabeth/images/3.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580395/godsgift/queen-elizabeth/images/4.webp",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580397/godsgift/queen-elizabeth/images/5.webp",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580398/godsgift/queen-elizabeth/images/6.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580400/godsgift/queen-elizabeth/images/7.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580401/godsgift/queen-elizabeth/images/8.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580402/godsgift/queen-elizabeth/images/birds.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580403/godsgift/queen-elizabeth/images/crater.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580404/godsgift/queen-elizabeth/images/elephant.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580405/godsgift/queen-elizabeth/images/flamingoes.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580407/godsgift/queen-elizabeth/images/flies.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580409/godsgift/queen-elizabeth/images/hippos.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580409/godsgift/queen-elizabeth/images/kobs.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580410/godsgift/queen-elizabeth/images/lake.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580411/godsgift/queen-elizabeth/images/lions.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580412/godsgift/queen-elizabeth/images/lionss.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580413/godsgift/queen-elizabeth/images/view.jpg"
+      ],
+      "videos": [
+        "https://res.cloudinary.com/dfqksoqvx/video/upload/v1780580442/godsgift/queen-elizabeth/videos/queen.mp4"
+      ],
+      "coverImage": "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580391/godsgift/queen-elizabeth/images/1.jpg"
+    },
+    "murchison-falls": {
+      "images": [
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580445/godsgift/murchison-falls/images/baboon.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580448/godsgift/murchison-falls/images/elephant.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780586120/godsgift/murchison-falls/images/falls.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780586121/godsgift/murchison-falls/images/falls.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580453/godsgift/murchison-falls/images/lion.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580454/godsgift/murchison-falls/images/mixed.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580455/godsgift/murchison-falls/images/rain-bow.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580456/godsgift/murchison-falls/images/snow.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580459/godsgift/murchison-falls/images/tourists.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580460/godsgift/murchison-falls/images/valley.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580461/godsgift/murchison-falls/images/water.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580462/godsgift/murchison-falls/images/waters.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580464/godsgift/murchison-falls/images/waterss.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580465/godsgift/murchison-falls/images/whites.jpg"
+      ],
+      "videos": [
+        "https://res.cloudinary.com/dfqksoqvx/video/upload/v1780580479/godsgift/murchison-falls/videos/murchison.mp4"
+      ],
+      "coverImage": "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780586120/godsgift/murchison-falls/images/falls.jpg"
+    },
+    "kidepo": {
+      "images": [
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580480/godsgift/kidepo/images/birds.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580481/godsgift/kidepo/images/gorillas.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580482/godsgift/kidepo/images/kidepo.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580483/godsgift/kidepo/images/kidepo1.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580484/godsgift/kidepo/images/kidepo2.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580485/godsgift/kidepo/images/kidepo3.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580486/godsgift/kidepo/images/kidepo4.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580487/godsgift/kidepo/images/kidepo5.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580488/godsgift/kidepo/images/kidepo6.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580489/godsgift/kidepo/images/ostriches.jpg"
+      ],
+      "videos": [
+        "https://res.cloudinary.com/dfqksoqvx/video/upload/v1780585934/godsgift/kidepo/videos/kidepo.mp4"
+      ],
+      "coverImage": "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580480/godsgift/kidepo/images/birds.jpg"
+    },
+    "lake-bunyonyi": {
+      "images": [
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580490/godsgift/lake-bunyonyi/images/boat.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580491/godsgift/lake-bunyonyi/images/chill-zone.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580492/godsgift/lake-bunyonyi/images/chill.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580493/godsgift/lake-bunyonyi/images/islands.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580495/godsgift/lake-bunyonyi/images/islandss.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580496/godsgift/lake-bunyonyi/images/lake-view.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580497/godsgift/lake-bunyonyi/images/reflection.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580498/godsgift/lake-bunyonyi/images/sleep.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580500/godsgift/lake-bunyonyi/images/tourist.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580501/godsgift/lake-bunyonyi/images/view.jpg"
+      ],
+      "videos": [
+        "https://res.cloudinary.com/dfqksoqvx/video/upload/v1780585961/godsgift/lake-bunyonyi/videos/lake-bunyonyi.mp4"
+      ],
+      "coverImage": "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580490/godsgift/lake-bunyonyi/images/boat.jpg"
+    },
+    "rwenzori": {
+      "images": [
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580502/godsgift/rwenzori/images/climbing.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580502/godsgift/rwenzori/images/lizard.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580503/godsgift/rwenzori/images/magherita.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580504/godsgift/rwenzori/images/mountain-climbing.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580505/godsgift/rwenzori/images/mountain-view.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580506/godsgift/rwenzori/images/snow-capped.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580507/godsgift/rwenzori/images/snow.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580509/godsgift/rwenzori/images/vegs.jpg"
+      ],
+      "videos": [
+        "https://res.cloudinary.com/dfqksoqvx/video/upload/v1780585985/godsgift/rwenzori/videos/rwenzori-mountains.mp4"
+      ],
+      "coverImage": "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580502/godsgift/rwenzori/images/climbing.jpg"
+    },
+    "lake-mburo": {
+      "images": [
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580510/godsgift/lake-mburo/images/boat-cruise.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580511/godsgift/lake-mburo/images/cloud.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580512/godsgift/lake-mburo/images/evening.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580513/godsgift/lake-mburo/images/giraffes.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580514/godsgift/lake-mburo/images/horses.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580516/godsgift/lake-mburo/images/post.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580517/godsgift/lake-mburo/images/rhino.jpg",
+        "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580518/godsgift/lake-mburo/images/zebras.jpg"
+      ],
+      "videos": [
+        "https://res.cloudinary.com/dfqksoqvx/video/upload/v1780580534/godsgift/lake-mburo/videos/mburo.mp4"
+      ],
+      "coverImage": "https://res.cloudinary.com/dfqksoqvx/image/upload/v1780580510/godsgift/lake-mburo/images/boat-cruise.jpg"
+    }
+  }
+}
